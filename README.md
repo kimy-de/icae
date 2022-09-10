@@ -41,7 +41,8 @@ source runitall.sh
 * Train data: 400 snapshots in [0,10]
 * Evaluation data: 800 snapshots in [0,10]
 * Snapshot size $n_v$: 5922 (2x47x63)
-The datasets and pretrained models are available via https://zenodo.org/record/6817442
+
+The datasets and pretrained models are available via [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6817442.svg)](https://doi.org/10.5281/zenodo.6817442).
 
 ## 4. Training session
 
