@@ -3,7 +3,7 @@
 
 ## 1. Publication
 
-[Jan Heiland and Yongho Kim (2022) Convolutional Autoencoders and Clustering for Low-dimensional Parametrization of Incompressible Flows, 25th International Symposium on Mathematical Theory of Networks and Systems (MTNS), IFAC-PapersOnLine](paperlink) available soon
+[Jan Heiland and Yongho Kim (2022) Convolutional Autoencoders and Clustering for Low-dimensional Parametrization of Incompressible Flows, 25th International Symposium on Mathematical Theory of Networks and Systems (MTNS), IFAC-PapersOnLine](https://www.sciencedirect.com/science/article/pii/S2405896322027240) 
 
 The design of controllers for general nonlinear PDE models is a diffcult task because of the high dimensionality of the partially discretized equations. It has been observed that the embedding of nonlinear systems into the class of linear parameter varying systems (LPV) gives way to apply linear theory and methods from numerical linear algebra for controller design. The feasibility of the LPV approach hinges on the dimension of the inherent parametrization. 
 In this work we propose and evaluate combinations of convolutional neural networks and clustering algorithms for very low-dimensional parametrizations of incompressible Navier-Stokes equations.
